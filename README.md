@@ -1,3 +1,7 @@
+## change log
+如果mac本docker出现问题，可以修改属性配置为本地
+
+
 ## TestContainers with DockerCompose in SpringBoot 3
 It's possible to run the tests by executing the following command:
 ```shell
